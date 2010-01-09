@@ -1,8 +1,8 @@
-== About
+## About
 
 Code Completely allows you to compare the syntax of two programming languages. 100% Javascript powered. Can run on just about any server.
 
-== Usage
+## Usage
 
 Just hit the index.html file to load the application. Select the languages you would like to compare and away you go.
 

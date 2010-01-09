@@ -7,6 +7,7 @@ Code Completely allows you to compare the syntax of two programming languages. 1
 Just hit the index.html file to load the application. Select the languages you would like to compare and away you go.
 
 To add new languages:
+
 1. create a new directory in the 'languages' directory. Make sure the name of that directory matches the name you put in the next step.
 2. Open settings.js and append the name of the language to the languages array.
 3. Make a file that matches any of the files in the 'snippets' array. You can add new file names here for added features.
